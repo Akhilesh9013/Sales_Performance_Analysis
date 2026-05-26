@@ -43,6 +43,11 @@ This project focuses on analyzing sales performance data using Python to identif
 
 Provided meaningful business insights through data analysis and visualization techniques, helping improve decision-making and overall understanding of sales performance.
 
+## 📷 Dashboard Screenshot
+
+![Superstore Sales Dashboard](Screenshot%202026-02-16%20121321.png)
+
+
 ## 📂 Repository Structure
 
 * Jupyter Notebook (.ipynb)
