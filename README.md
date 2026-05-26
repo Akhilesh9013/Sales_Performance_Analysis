@@ -45,7 +45,7 @@ Provided meaningful business insights through data analysis and visualization te
 
 ## 📷 Dashboard Screenshot
 
-![Superstore Sales Dashboard](Screenshot%202026-02-16%20121321.png)
+![Superstore Sales Dashboard](Screenshot%2026-05-26%145049.png)
 
 
 ## 📂 Repository Structure
